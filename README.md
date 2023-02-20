@@ -1,4 +1,4 @@
-# build-desc
+# build AOSP / AOSP Based Roms for Arch, Ubuntu linux
 For arch
 https://wiki.archlinux.org/title/Android#Building
 
